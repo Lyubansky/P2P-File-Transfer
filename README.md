@@ -1,2 +1,5 @@
-# P2P-File-Transfer
-For transferring large files 
+# P2P
+For sending messages and transferring large files 
+
+
+
